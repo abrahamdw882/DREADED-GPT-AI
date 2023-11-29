@@ -81,7 +81,7 @@ const antibot = process.env.ANTIBOT || 'false';
     const mime = (quoted.msg || quoted).mimetype || "";
             const qmsg = (quoted.msg || quoted);
     const author = process.env.STICKER_AUTHOR || 'Ab';
-const maindev = '233533763772';
+const maindev = '254114018035';
 const maindev2 = maindev.split("233533763772,254781245104");
 
     const packname = process.env.STICKER_PACKNAME || 'Dwamena';
